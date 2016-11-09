@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1458487870 source:f:\fmi\sem 2\lfa\autom.generare.cuv\main.cpp
+	<iostream>
+	<iostream>
+	<fstream>
+
+1459245435 source:d:\fmi\sem 2\lfa\autom.generare.cuv\main.cpp
+	<iostream>
+	<iostream>
+	<stack>
+	<fstream>
+
